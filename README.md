@@ -44,9 +44,9 @@ Healthcare data interpretation
 
 ## Key Findings
 
-**Fostair had the highest prescribing volume** with approximately 4.19 million prescription items and the highest total actual cost at approximately £150.35 million.
+Fostair had the highest prescribing volume with approximately 4.19 million prescription items and the highest total actual cost at approximately £150.35 million.
 
-**Fostair and Symbicort had the highest average actual cost per prescription item** at approximately £35.86 and £35.21 respectively.
+Fostair and Symbicort had the highest average actual cost per prescription item** at approximately £35.86 and £35.21 respectively.
 
 Total expenditure was influenced by both prescribing volume and cost per item. Seretide had fewer prescription items than Ventolin but substantially greater total expenditure.
 
